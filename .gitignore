@@ -1,4 +1,5 @@
 lib3d.config
-lib3d.creator
+lib3d.creator*
 lib3d.files
 lib3d.includes
+build
